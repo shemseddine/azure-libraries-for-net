@@ -118,7 +118,7 @@ namespace Microsoft.Azure.Management.Sql.Fluent
         }
 
         /// <summary>
-        /// Creates a new database from a restore point.
+        /// Creates a new database from a sample database.
         /// </summary>
         /// <param name="sampleName">The sample database to use as the source.</param>
         /// <return>The next stage of the definition.</return>
